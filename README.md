@@ -46,11 +46,11 @@ After merging and removing duplicates, the selected features include:
 
 
 ## Dashboard Features
-- 🟢 **Scatterplot** – PCA-based clusters with color-coded points  
-- 💜 **Bar Chart** – Average audio feature values per cluster  
-- 📅 **Date Interval Selector** – Filter songs by release date  
-- 🎧 **Top 10 Genres / Artists / Tracks** – Ranked, filterable lists  
-- 📊 **Dataset Overview Panel** – Quick statistics (e.g. avg. energy, valence, loudness)
+- **Scatterplot** – PCA-based clusters with color-coded points  
+- **Bar Chart** – Average audio feature values per cluster  
+- **Date Interval Selector** – Filter songs by release date  
+- **Top 10 Genres / Artists / Tracks** – Ranked, filterable lists  
+- **Dataset Overview Panel** – Quick statistics (e.g. avg. energy, valence, loudness)
 
 
 ## Key Insights
